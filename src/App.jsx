@@ -38,6 +38,9 @@ const App = () => {
       <section className=' bg-black padding-x padding-t pb-8'>
         <Footer />
       </section>
+      <section>
+        <h1>This is a test push</h1>
+      </section>
     </main>
   );
 };
