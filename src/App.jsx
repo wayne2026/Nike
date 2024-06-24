@@ -38,6 +38,9 @@ const App = () => {
       <section className=' bg-black padding-x padding-t pb-8'>
         <Footer />
       </section>
+      <section>
+        First change for first stage
+      </section>
     </main>
   );
 };
